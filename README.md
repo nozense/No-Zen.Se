@@ -1,2 +1,2 @@
 
-[nozen.se](nozen.se) - Bloggen med lite av sånt jag gjort 
+[https://nozen.se](nozen.se) - En plats där jag **delar delar** av det jag skapat.
