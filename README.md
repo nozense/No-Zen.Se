@@ -1,3 +1,3 @@
 # No-Zen.Se
 
-[test1.md](Test1)
+[Test1](test1.md)
