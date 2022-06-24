@@ -2,7 +2,7 @@ Hyvä Kysymys...
 
 ---
 
-tieto lisää tuskaa
+Tieto Lisää Tuskaa
 
 ---
 
